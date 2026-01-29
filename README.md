@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Currently a Junior at Elon University majoring in Financial Technology and minoring in CompSci & Cybersecurity Management.
+
+
+
 <!--
 **bhamilton8/bhamilton8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
