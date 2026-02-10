@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently a Junior at Elon University majoring in Financial Technology and minoring in CompSci & Cybersecurity Management.
+Currently a Junior at Elon University majoring in Financial Technology and minoring in CompSci & Cybersecurity Management. I'm currently working through Data Analysis in Finance.
 
 
 
